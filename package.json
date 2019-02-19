@@ -1,18 +1,18 @@
 {
-  "name": "BotDaniel",
-  "version": "1.0.0",
-  "description": "",
-  "main": "holaBot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "botbuilder": "^3.8.1",
-    "node": "^11.10.0",
-    "nvm": "0.0.4",
-    "restify": "^7.7.0"
-  }
+    "name": "BotDaniel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "holaBot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "botbuilder": "^3.8.1",
+        "node": "^11.10.0",
+        "nvm": "0.0.4",
+        "restify": "^7.7.0"
+    }
 }
